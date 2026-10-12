@@ -1,0 +1,1 @@
+function t(n,r){let e=r.account.errors;switch(n.kind){case"invalid":return n.credentials?e.credentials:"non_field_errors"in n.fields||"detail"in n.fields?e.generic:null;case"signedOut":return e.generic;case"throttled":return e.throttled;case"unavailable":return e.unavailable}}export{t as a};
