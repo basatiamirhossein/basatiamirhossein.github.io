@@ -1,1 +1,0 @@
-import{$ as r,H as n}from"./chunk-4QJARFDL.js";var o=class e{intent=r(null);request(t){this.intent.set({service:t,at:Date.now()})}static \u0275fac=function(a){return new(a||e)};static \u0275prov=n({token:e,factory:e.\u0275fac,providedIn:"root"})};export{o as a};

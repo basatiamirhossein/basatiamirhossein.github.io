@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /fa/account/
+Disallow: /fa/login/
+Disallow: /fa/signup/
+Disallow: /en/account/
+Disallow: /en/login/
+Disallow: /en/signup/
+Disallow: /ar/account/
+Disallow: /ar/login/
+Disallow: /ar/signup/
+Disallow: /ckb/account/
+Disallow: /ckb/login/
+Disallow: /ckb/signup/
+Disallow: /tr/account/
+Disallow: /tr/login/
+Disallow: /tr/signup/
+
+Sitemap: https://datadevvv.ir/sitemap.xml
